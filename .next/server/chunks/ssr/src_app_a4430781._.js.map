@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file:///D:/Learning/1.%20University/Kabarak%20University/Semesters/3.2/COMP%20323-%20Team%20Project/Y-Transit/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":[],"mappings":";;;AAAA;;uCACe;IAAE,KAAA,8GAAA,CAAA,UAAG;IAAE,OAAO;IAAI,QAAQ;AAAG","debugId":null}}]
+}

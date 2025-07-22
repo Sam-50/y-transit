@@ -19,3 +19,4 @@ const db = getFirestore(app);
 const auth = getAuth(app);
 
 export { db, auth };
+console.log("✅ Firebase API Key:", process.env.NEXT_PUBLIC_FIREBASE_API_KEY);

@@ -1,0 +1,16 @@
+{
+  "node": {
+    "7fe98fa9519524a95f0e97fb479c1949b597ab0934": {
+      "workers": {
+        "app/dashboard/driver/trip-reports/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/driver/trip-reports/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/driver/trip-reports/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
