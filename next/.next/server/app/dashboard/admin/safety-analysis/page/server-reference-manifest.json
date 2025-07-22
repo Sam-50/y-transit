@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40db93677ba85256d36daa81b17daefc354acca3c5": {
+      "workers": {
+        "app/dashboard/admin/safety-analysis/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/safety-analysis/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/analyze-route-safety.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/admin/safety-analysis/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

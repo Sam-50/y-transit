@@ -1,0 +1,16 @@
+{
+  "node": {
+    "7f1f2e986f4311dfbc09aaae95a2301b336cc62801": {
+      "workers": {
+        "app/dashboard/admin/students/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/admin/students/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///home/user/studio/src/app/dashboard/page.tsx"],"sourcesContent":["\nimport { redirect } from 'next/navigation'\n\nexport default function DashboardPage() {\n  redirect('/dashboard/admin')\n}\n"],"names":[],"mappings":";;;AACA;AAAA;;AAEe,SAAS;IACtB,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;AACX","debugId":null}}]
+}

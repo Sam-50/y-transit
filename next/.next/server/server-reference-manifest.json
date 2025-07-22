@@ -1,0 +1,53 @@
+{
+  "node": {
+    "7f1f2e986f4311dfbc09aaae95a2301b336cc62801": {
+      "workers": {
+        "app/dashboard/admin/drivers/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/drivers/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/dashboard/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/dashboard/admin/parents/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/parents/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/dashboard/admin/routes/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/routes/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/dashboard/admin/students/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/admin/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/dashboard/parent/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/parent/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/admin/drivers/page": "action-browser",
+        "app/dashboard/admin/page": "action-browser",
+        "app/dashboard/admin/parents/page": "action-browser",
+        "app/dashboard/admin/routes/page": "action-browser",
+        "app/dashboard/admin/students/page": "action-browser",
+        "app/dashboard/parent/page": "action-browser"
+      }
+    },
+    "7f3a6a90134735cc79b8a621bf41ee280e664a3381": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/services/users.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XJeKVlwMCjDGyuNL+r5aUQPXKO7qnXO5LexEa6iz93w="
+}

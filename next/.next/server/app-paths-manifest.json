@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/admin/drivers/page": "app/dashboard/admin/drivers/page.js",
+  "/dashboard/admin/page": "app/dashboard/admin/page.js",
+  "/dashboard/admin/parents/page": "app/dashboard/admin/parents/page.js",
+  "/dashboard/admin/routes/page": "app/dashboard/admin/routes/page.js",
+  "/dashboard/admin/students/page": "app/dashboard/admin/students/page.js",
+  "/dashboard/parent/page": "app/dashboard/parent/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
